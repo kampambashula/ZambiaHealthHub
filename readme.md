@@ -119,6 +119,6 @@ For questions, collaboration, or feedback, please contact
 
 Kampamba Shula
 Email: <kampambashula@gmail.com>
-GitHub: kshula
+GitHub: kampambashula
 
 Thank you for exploring Zambia HealthHub — advancing public health through data-driven insights!
